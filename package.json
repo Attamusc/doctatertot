@@ -1,0 +1,14 @@
+{
+  "name": "doctator",
+  "version": "0.0.0",
+  "description": "Turn JSDoc comments into markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Dunn <sean@attamusc.com> (http://www.dunns.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "doctrine": "^0.5.1"
+  }
+}
